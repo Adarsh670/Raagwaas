@@ -1,14 +1,14 @@
 @font-face {
   font-family: BentonModDispLight;
-  src: url(/Benton\ Modern\ Font\ Family/BentonModDisp-Light.otf);
+  src: url(BentonModDisp-Light.otf);
 }
 @font-face {
   font-family: BentonModDispSemibold;
-  src: url(/Benton\ Modern\ Font\ Family/BentonModDisp-Semibold.otf);
+  src: url(BentonModDisp-Semibold.otf);
 }
 @font-face {
   font-family: QuickRegular;
-  src: url(/Quicksand/Quicksand-Regular.ttf);
+  src: url(Quicksand-Regular.ttf);
 }
 ::-webkit-scrollbar {
   display: none;
